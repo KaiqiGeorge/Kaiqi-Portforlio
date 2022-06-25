@@ -150,7 +150,25 @@ margin-top: 29px;
 margin-bottom: 29px;
 opacity: 0.9;
 }
-
+.projectsDisplay{
+    margin: 0 100px;
+}
+.workHeading{
+    font-size: 53px;
+}
+.work h3{
+    font-weight: 600;
+    font-size: 24px;
+    margin-top: 10px;
+    margin-bottom: -25px;
+}
+.work p{
+    font-size: 14px;
+    opacity: 0.7;
+}
+.work img{
+    border-radius: 10px;
+}
 
 @media(max-width:1000px){
     .iAm{
@@ -245,6 +263,26 @@ opacity: 0.9;
             margin: 18px 0;
 
         }
+        .workHeading{
+            margin: 50px 25px;
+            font-size: 25px;
+            font-family: 800;
+        
+        }
+        .work img{
+            margin-top: 10px;
+            max-width: 100%;
+            width: fit-content;
+            height: auto;
+            margin-top: 25px;
+        }
+        .projectsDisplay{
+            margin: 0 0px;
+        }
+       .flowerShopPicture{
+        margin-top: -10px;
+       }
+       
         
     }
 
