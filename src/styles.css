@@ -171,13 +171,14 @@ opacity: 0.9;
 .work img{
     border-radius: 10px;
 }
-.contact-container{
+.contact{
     padding-left: 144px;
-    padding-top: 165px;
+    padding-top: 80px;
 }
-.contact button{
-    text-align: left;
+.contact h2{
+    margin-bottom: 40px;
 }
+
 
 @media(max-width:1000px){
     .iAm{
