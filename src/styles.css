@@ -44,12 +44,13 @@ line-height: 128px;
 letter-spacing: 0em;
 }
 h2{
-font-family:var(--heading-font-family);
+font-family:var(--heading-font-family)!important;
 font-size: 40px;
 font-weight: 500;
 text-align: left;
 margin-top: 60px   
 }
+
 
 h3{
 font-family: var(--default-font-family);
@@ -77,10 +78,6 @@ max-width: 400px;
      margin: auto;
  
  }
-
-
-
-
 
 
 .btn-branding{
@@ -123,6 +120,37 @@ margin: 80px auto;
 opacity: 0.7;
 
 }
+.about-Me{
+    padding: 120px 80px 180px;
+}
+.about-Me h2{
+    font-family: var(--heading-font-family);
+    font-size: 70px;
+    font-family: Playfair Display;
+    font-weight: 700;
+    line-height: 75px;
+    font-family: Playfair Display;
+    margin-top: 5px;
+}
+.about-Me p{
+    margin-bottom: -7px;
+    max-width: 500px;
+}
+.about-Me img{
+border-radius: 10px;
+width: 530px;
+
+}
+h4{
+font-family: var(--default-font-family);
+font-size: 18px;
+font-weight: 520;
+line-height: 27px;
+margin-top: 29px;
+margin-bottom: 29px;
+opacity: 0.9;
+}
+
 
 @media(max-width:1000px){
     .iAm{
@@ -193,6 +221,32 @@ opacity: 0.7;
         -webkit-order: 1;
         order: 1;
       }
+      .about-Me{
+        text-align: center;
+        padding-top: 50px;
+        }
+        .about-Me img{
+            max-width: 100% !important;
+            width: 500px;
+            margin-bottom: 25px; 
+
+        }
+        .about-Me h2{
+            font-family: var(--heading-font-family);
+            font-size: 38px;
+            font-weight: 700;
+            line-height: 45px;
+           
+        }
+        h4{
+            font-size: 12px;
+            font-weight: 550;
+            line-height: 25px;
+            margin: 18px 0;
+
+        }
+        
+    }
 
     
-}
+
