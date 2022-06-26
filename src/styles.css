@@ -25,11 +25,13 @@ font-family: 'Roboto', sans-serif;*/
     border: 1.95px solid rgba(22, 22, 22, 0.767);
     border-radius:4px;
 }
+
 nav{
     background-color:var(--secondary-color);
 }
 .navbar-nav{
     text-align: left;
+    font-size: 19px; 
 }
 .iAm{
 font-family: Poppins;
