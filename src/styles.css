@@ -1,10 +1,12 @@
 
-/*font-family: 'Playfair Display', serif;
+/*font-family: 'IM Fell English SC', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Playfair Display', serif;
 font-family: 'Poppins', sans-serif;
- 'IM Fell English SC', serif*/
+font-family: 'Roboto', sans-serif;*/
 :root{
     --default-font-family: 'Poppins', sans-serif;
-    --heading-font-family:  'IM Fell English SC', serif;
+    --heading-font-family:  'Roboto', sans-serif;
     --primary-color:#6C63FF;
     --secondary-color: #1f089803;
 }
