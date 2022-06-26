@@ -185,10 +185,34 @@ opacity: 0.9;
     border-radius: 10px;
 }
 .contactBox{
-    margin: 200px 80px;
+    margin: 200px 90px;
 }
 .contactBox h2{
-        margin-top: 0px  
+        margin-top: 0px;  
+}
+.socialLinks{
+    margin-top: 80px;
+}
+.emailLink{
+font-family: Poppins;
+font-size: 20px;
+font-weight: 500;
+line-height: 36px;
+color: black;
+opacity: 0.8;
+}
+.icons a {
+    margin: 0 20px;
+    color: var(--primary-color);
+    background: var(--secondary-color);
+    padding: 10px 14px;
+    border-radius: 50%;
+    font-size: 18px;
+    transition: all 100ms ease-in-out;
+}
+.icons a:hover{
+    background-color: var(--primary-color);
+    color: white;
 }
 
 
