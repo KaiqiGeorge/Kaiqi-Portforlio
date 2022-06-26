@@ -183,7 +183,7 @@ opacity: 0.9;
 }
 .containerBox{
     background: var(--secondary-color);
-    padding: 10px 300px;
+    padding: 30px 300px;
     border-radius: 10px;
 }
 .contactBox{
