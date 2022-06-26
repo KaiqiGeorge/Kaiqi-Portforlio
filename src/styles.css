@@ -28,6 +28,9 @@ font-family: 'Roboto', sans-serif;*/
 nav{
     background-color:var(--secondary-color);
 }
+.navbar-nav{
+    text-align: left;
+}
 .iAm{
 font-family: Poppins;
 font-size: 36px;
@@ -272,6 +275,7 @@ opacity: 0.8;
         text-align:center;
         margin-right: 0px;
      }
+
      img{
         margin-bottom: 70px;
         max-width: 80%;
