@@ -121,7 +121,7 @@ opacity: 0.7;
 
 }
 .about-Me{
-    padding: 120px 80px 180px;
+    padding: 140px 80px 10px;
 }
 .about-Me h2{
     font-family: var(--heading-font-family);
@@ -213,6 +213,11 @@ opacity: 0.8;
 .icons a:hover{
     background-color: var(--primary-color);
     color: white;
+}
+.contactBox p{
+    text-align: center;
+    margin: 10px auto;
+    max-width: 100%;
 }
 
 
@@ -337,6 +342,10 @@ opacity: 0.8;
         .contact h3{
             margin-top: 20px;
             margin-bottom: 0px;
+        }
+        #email{
+           margin-left: -30px;
+        
         }
        
         
