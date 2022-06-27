@@ -382,6 +382,13 @@ opacity: 0.8;
         .contactBox{
             margin-top: 100px;
         }
+        .line{
+            margin-bottom: -60px !important;
+            margin-top: 80px;
+            max-width: 95%;
+            margin-left: 10px;
+            margin-right: 5px;
+        }
        
        
         
