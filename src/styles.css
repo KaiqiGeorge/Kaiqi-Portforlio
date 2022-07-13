@@ -10,6 +10,9 @@ font-family: 'Roboto', sans-serif;*/
     --primary-color:#6C63FF;
     --secondary-color: #1f089803;
 }
+.new-image{
+    border-radius: 15px;
+}
 .dictionary-new-image{
     height: 85%;
     margin-left: 20px;
