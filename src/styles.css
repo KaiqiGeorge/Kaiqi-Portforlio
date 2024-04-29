@@ -12,6 +12,9 @@ font-family: 'Roboto', sans-serif;*/
     /*--secondary-color: #1f089803;;#*/
     --secondary-color:#D4B996FF;
 }
+.first-nav-item{
+    margin-left: 80px !important;
+}
 .new-image{
     border-radius: 15px;
 }
@@ -50,6 +53,7 @@ font-family: 'Roboto', sans-serif;*/
     border: 1.95px solid white;
     border-radius:4px;
     color: white;
+    margin-left: 20px !important;
 }
 
 nav{
@@ -257,7 +261,7 @@ opacity: 0.8;
     max-width: 100%;
 }
 .active{
-    color: var(--secondary-color);
+    color: #D4B996FF !important;
 }
 
 
@@ -421,6 +425,9 @@ opacity: 0.8;
         }
         .navbar-nav{
             font-size: 15px; 
+        }
+        .first-nav-item{
+            margin-left: 0px !important;
         }
 
        
