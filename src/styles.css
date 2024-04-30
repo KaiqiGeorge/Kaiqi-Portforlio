@@ -286,7 +286,7 @@ opacity: 0.8;
      }
     
     .container{
-        background-color: var(--secondary-color);
+       /* background-color: var(--secondary-color); */
         padding-bottom:75px;
         max-width: 100%;
         text-align: center;
