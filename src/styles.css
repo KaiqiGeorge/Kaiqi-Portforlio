@@ -36,6 +36,17 @@ font-family: 'Roboto', sans-serif;*/
 #navbarNav{
     padding: 5px 0;
 }
+.project-container{
+    margin-left: 150px;
+    margin-right: 110px;
+}
+.project-description{
+    text-align: left;
+    margin-right: 20px
+}
+.project-container img{
+    width: 80%;
+}
 
 .navbar-nav li{
     font-family:var(default-font-family);
@@ -104,6 +115,7 @@ line-height: 36px;
 letter-spacing: 0em;
 
 }
+
 p{
 font-family:var(--default-font-family);
 font-size: 16px;
@@ -232,7 +244,7 @@ opacity: 0.9;
     border-radius: 10px;
 }
 .contactBox{
-    margin: 200px 90px;
+    margin: 200px 50px;
 }
 .contactBox h2{
         margin-top: 0px;  
@@ -269,8 +281,12 @@ opacity: 0.8;
 .active{
     color: #D4B996FF !important;
 }
-
-
+.project-container h2{
+    margin-top: 20px;
+}
+/* .hero{
+    background-color: var(--secondary-color);
+} */
 @media(max-width:1000px){
     .iAm{
         margin-top: 55PX;
@@ -305,9 +321,9 @@ opacity: 0.8;
         font-size: 13px;
         margin-bottom: 80px;
         }
-       .project-description{
+       /* .project-description{
         text-align: center;
-       }
+       } */
        h2{
         text-align: center;
         margin-top: -50px;
