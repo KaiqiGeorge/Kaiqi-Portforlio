@@ -12,6 +12,9 @@ font-family: 'Roboto', sans-serif;*/
     /*--secondary-color: #1f089803;;#*/
     --secondary-color:#D4B996FF;
 }
+.skills img{
+    opacity: 60%;
+}
 .first-nav-item{
     margin-left: 80px !important;
 }
@@ -119,7 +122,10 @@ max-width: 400px;
      margin: auto;
  
  }
-
+ .weatherApp a{
+    text-align: left !important;
+    margin: auto;
+ }
 
 .btn-branding{
     padding: 14px 40px!important;
