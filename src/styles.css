@@ -287,6 +287,10 @@ opacity: 0.8;
 /* .hero{
     background-color: var(--secondary-color);
 } */
+.recent-project{
+    background-color: #ededed;
+    padding-bottom: 50px;
+}
 @media(max-width:1000px){
     .iAm{
         margin-top: 55PX;
