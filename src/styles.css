@@ -284,9 +284,12 @@ opacity: 0.8;
 .project-container h2{
     margin-top: 20px;
 }
-/* .hero{
-    background-color: var(--secondary-color);
-} */
+.hero{
+    background-color: #EDEDED;
+    margin-top: -150px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
 .recent-project{
     background-color: #ededed;
     padding-bottom: 50px;
