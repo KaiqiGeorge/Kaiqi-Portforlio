@@ -346,11 +346,17 @@ opacity: 0.8;
         margin-left: 150px !important;
         margin-bottom: 10px !important;
     }
+    .skills{
+        margin-top: 80px !important;
+    }
+    .hero{
+        padding-bottom: 0px !important;
+    }
     .buttons{
         margin: 0 auto !important;
         text-align: center !important; 
         align-items: center !important;
-        margin-left: 150px !important;
+        margin-left: 120px !important;
         margin-bottom: 10px !important;
     }
    .homepage-pic{
