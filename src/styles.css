@@ -336,7 +336,29 @@ opacity: 0.8;
         margin: 0 auto;
         padding: auto;
         align-items: center;
+        margin-bottom: -90px;
         
+    }
+    .homepage-projects .btn {
+        margin: 0 auto !important;
+        text-align: center !important; 
+        align-items: center !important;
+        margin-left: 150px !important;
+        margin-bottom: 10px !important;
+    }
+    .buttons{
+        margin: 0 auto !important;
+        text-align: center !important; 
+        align-items: center !important;
+        margin-left: 150px !important;
+        margin-bottom: 10px !important;
+    }
+    .homepage-projects img{
+        padding: 50px !important;
+    }
+    .weather-pic{
+        margin-left: 50px;
+        margin-bottom: 40px;
     }
     .container{
        /* background-color: var(--secondary-color); */
