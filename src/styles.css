@@ -353,12 +353,37 @@ opacity: 0.8;
         margin-left: 150px !important;
         margin-bottom: 10px !important;
     }
-    .homepage-projects img{
-        padding: 50px !important;
-    }
+   .homepage-pic{
+    background-color: white !important;
+    padding: 30px !important;
+    padding-left: 70px !important;
+    margin-bottom: 40px;
+   }
     .weather-pic{
         margin-left: 50px;
         margin-bottom: 40px;
+    }
+    .latest-project{
+        padding-top: 100px !important;
+    }
+    .latest-project-pic{
+        text-align: center !important;
+        margin-left: 50px !important;
+        margin-top: 50px !important;
+        margin-bottom: 0px !important;
+    }
+    .recent-project-buttons{
+        margin: 0 auto !important;
+        text-align: center !important; 
+        align-items: center !important;
+        margin-left: 105px !important;
+        margin-bottom: 10px !important;
+    }
+    .weather-pic-workpage{
+        margin-top: 20px;
+        align-items: center;
+        margin-left: 50px;
+        margin-bottom: -40px;
     }
     .container{
        /* background-color: var(--secondary-color); */
@@ -366,6 +391,17 @@ opacity: 0.8;
         max-width: 100%;
         text-align: center;
     }
+   .more-projects h5{
+    text-align: center !important;
+    margin-bottom: 50px !important;
+    font-size: 30px !important
+   }
+   .about-me-description{
+    margin-top: -70px !important
+   }
+   .about-me-description a{
+    margin-bottom: 100px;
+   }
     h5{
         font-weight: 600;
         text-align: center;
